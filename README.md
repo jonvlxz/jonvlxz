@@ -1,11 +1,4 @@
 
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
- 
- &nbsp;
- &nbsp;
-
-
-
 ## My Skills
 
 #### Main Stack:
