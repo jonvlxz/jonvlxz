@@ -1,4 +1,4 @@
-## Olá eu sou o joão Pontes, criador de conteúdo de programação e desenvolvedor!
+## Hello, I'm João Pontes, a content creator in programming and a developer!
 
 ![Figma Cover (7)](https://github.com/user-attachments/assets/a5aafbca-7cea-43fc-8f3a-843ea1b30136)
 
