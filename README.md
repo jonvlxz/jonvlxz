@@ -1,5 +1,9 @@
 ## Olá eu sou o joão Pontes, criador de conteúdo de programação e desenvolvedor!
 
+![Figma Cover (5)](https://github.com/user-attachments/assets/4781cbf0-8c08-4729-a288-f3f47893adf5)
+
+
+##
 <div style="display: inline_block"><br>
     <img align="center" alt="jao-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="jao-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
