@@ -1,6 +1,6 @@
 ## Olá eu sou o joão Pontes, criador de conteúdo de programação e desenvolvedor!
 
-![Figma Cover (4)](https://github.com/user-attachments/assets/8d701070-2298-4e42-a40e-8b8a9592fd17)
+![Figma Cover (7)](https://github.com/user-attachments/assets/a5aafbca-7cea-43fc-8f3a-843ea1b30136)
 
 
 ##
